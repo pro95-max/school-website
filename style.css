@@ -1,0 +1,21 @@
+.navbar-inverse my_nav_bar{
+    z-index: 999;
+    position: sticky;
+    top: 0;
+}
+body{
+    text-align: center;
+}
+.image_ground{
+    width: 100%;
+    float: none;
+}
+#contact iframe{
+    width: 100%;
+}
+.book{
+    cursor: pointer;
+    align-content: center;
+}
+
+    
